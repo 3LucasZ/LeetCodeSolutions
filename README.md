@@ -1,2 +1,2 @@
-# LeetCodeSolutions
-Solutions to LeetCode problems in python
+# Python-Projects
+Small projects created in python.
