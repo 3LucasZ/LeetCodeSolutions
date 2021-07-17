@@ -1,2 +1,4 @@
 # Python-Projects
-Small projects created in python.
+Fun projects created in python.
+Using PyCharm and VSCode IDE 
+More projects coming soon!
